@@ -1,6 +1,6 @@
 # Iris Dataset Deployement with Flask
 
-we will go through the entire deployment process, starting from creating a servicable model from scratch, then deploy it for others to use, through API.
+The entire deployment process, starting from creating a servicable model from scratch, then deploy it for others to use, through API.
 
 For this example I have used the very common data set: iris dataset, which is about flowers.
 
